@@ -1,0 +1,10 @@
+== Photos2x
+
+Web application built in rails to demonstrate user authentication facility.
+Created during study of <b>Ruby on Rails: Authentication</b> course on Codecademy[https://www.codecademy.com].
+
+<tt>Ruby version</tt>:: 2.2.3
+<tt>System dependencies</tt>:: Open Terminal and enter <code>bundle install</code>, without quotes to install all dependencies.
+<tt>Database creation</tt>:: In Terminal enter <code>rake db:migrate</code> to create a database for this application.
+<tt>Database initialization</tt>:: In Terminal enter <code>rake db:seed</code> to enter initial data in the database.
+<tt>Deployment instructions</tt>:: In Terminal enter <code>rails s</code> to start rails server to test it locally in <i>development mode</i>.
