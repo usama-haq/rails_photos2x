@@ -1,6 +1,7 @@
 == Photos2x
 
 Web application built in rails to demonstrate user authentication facility.
+It just display various albums and its associated pictures along with the facility to login and sign up.
 Created during study of <b>Ruby on Rails: Authentication</b> course on Codecademy[https://www.codecademy.com].
 
 <tt>Ruby version</tt>:: 2.2.3
